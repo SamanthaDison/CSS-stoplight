@@ -1,0 +1,25 @@
+
+div{
+    transform: translateX(300px);
+}
+
+.rectangle-a{
+    height: 50px;
+    width: 30px;
+    background-color: black;
+    margin-left: 3.5vh;
+}
+
+.rectangle-b{
+    height: 300px;
+    width: 80px;
+    background-color: black;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.transform{
+    transform: translateX(300px);
+}
